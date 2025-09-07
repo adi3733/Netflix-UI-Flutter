@@ -30,7 +30,8 @@ lib/
 ---
 
 ## 📸 Screenshots
-(Add your app screenshots here after running the app)
+![Netflix_Ui Thumbnail](https://github.com/user-attachments/assets/332272f1-6627-4ce7-9755-3a81e98dfa21)
+
 
 ---
 
